@@ -29,7 +29,7 @@ Machine learning models are rarely useful in isolation. This project focuses on 
 ### Start the API
 uvicorn app:app --reload
 
-### The service will be available at:
+#### The service will be available at:
 http://127.0.0.1:8000/docs
 
 # Kaggle Case Study
